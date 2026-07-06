@@ -18,4 +18,4 @@ A bit about me
 - I like dogs
 - I am a coffee person
 - I am into anime(just a hobby) -- Attack on titan is a favorite
-- I am very interested in learning new things
+- I am very interested in learning new things.
